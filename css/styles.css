@@ -1,0 +1,182 @@
+/***********************GENERAL TAGS ************************/
+a {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: auto;
+  padding-top: 20px;
+  font-family: 'Bree Serif', serif;
+  font-weight: lighter;
+  color: #1a3263;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  color: #1a3263;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1a3263;
+}
+
+hr {
+  border: dotted #11999E 8px;
+  border-bottom: none;
+  width: 10%;
+  margin: 50px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+/***********************TOP CONTAINER ************************/
+.top-container {
+  background-color: #ebfffb;
+  position: relative;
+  margin: 0;
+}
+
+.coder:hover {
+  color: #11999E;
+}
+
+.coding {
+  height: 150px;
+  width: auto;
+  padding: 30px;
+  margin-bottom: 20px;
+
+}
+
+.destination {
+  height: 150px;
+  width: auto;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.intro {
+  width: 49%;
+  margin: auto;
+}
+
+/*********************** MIDDLE CONTAINER ************************/
+.middle-container {
+  margin: 50px 0;
+}
+
+.airplane {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999e);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999e);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999e);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999e);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.front-end {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.karina {
+  border-radius: 50%;
+  hight: 150px;
+  width: auto;
+}
+
+.languages {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.sub {
+  font-size: 2rem;
+font-weight: bold;
+margin: 50px 0 50px 0;
+}
+
+.sub:hover {
+  color: #11999E;
+}
+
+/*********************** BOTTOM CONTAINER ************************/
+.bottom-container {
+  background-color: #1a3263;
+  padding: 50px 0 20px;
+}
+
+.contact-message {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: #11999E;
+}
